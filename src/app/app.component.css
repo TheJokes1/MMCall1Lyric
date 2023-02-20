@@ -1,0 +1,13 @@
+.inputs{
+    background-color:beige;
+    font-size: large;
+}
+
+.push{
+    font-size: large;
+    margin-left: 15px;
+}
+
+.css-fix {
+    white-space: pre-wrap; /* or pre-line */
+  }
